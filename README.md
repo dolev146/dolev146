@@ -7,7 +7,7 @@
 <h1 align="center">Hi there 👋, I'm Dolev</h1>
 <h3 align="center">Computer Science student at Ariel University</h3>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=LeviEyal.LeviEyal) 
+![](https://visitor-badge.laobi.icu/badge?page_id=dolev146.dolev146) 
 [![Github](https://img.shields.io/github/followers/LeviEyal?label=Followers&style=social)](https://github.com/dolev146) 
 [![GitHub stars](https://img.shields.io/github/stars/LeviEyal?label=Stars&style=social)](https://github.com/dolev146)
 
@@ -17,10 +17,10 @@
 <a href="http://www.linkedin.com/in/dolevdublon" target="git"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="git"></a> <a href="mailto:dolev146@gmail.com" target="git"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="git"></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviEyal&theme=slateorange&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolev146&theme=slateorange&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeviEyal&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dolev146&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
