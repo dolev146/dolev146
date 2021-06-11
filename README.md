@@ -8,8 +8,8 @@
 <h3 align="center">Computer Science student at Ariel University</h3>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=dolev146.dolev146) 
-[![Github](https://img.shields.io/github/followers/LeviEyal?label=Followers&style=social)](https://github.com/dolev146) 
-[![GitHub stars](https://img.shields.io/github/stars/LeviEyal?label=Stars&style=social)](https://github.com/dolev146)
+[![Github](https://img.shields.io/github/followers/dolev146?label=Followers&style=social)](https://github.com/dolev146) 
+[![GitHub stars](https://img.shields.io/github/stars/dolev146?label=Stars&style=social)](https://github.com/dolev146)
 
 
 - 🌱 I’m currently learning Java, Python, C, JavaScript and C++ langauges
