@@ -35,6 +35,8 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" height="40"/>  </a>  
 <a href="https://www.linux.org" target="Linux"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="40"/></a>
 </p>
+<a href="#" target="react"> <img src="https://img.shields.io/badge/-react-blue" alt="react" height="40"/></a>
+</p>
 
 
 <!---
