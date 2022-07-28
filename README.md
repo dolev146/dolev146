@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dolev146
 - portfoliio https://dolev-port.herokuapp.com/
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java for university but my passion is python or javascript
 - 💞️ I’m looking to collaborate on landing pages a landing page i currnyl learning to make in vue and firestore
 - 📫 How to reach me on email dolev146@gmail.com
 
