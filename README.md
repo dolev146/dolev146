@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Dolev</h1>
-<h3 align="center">Computer Science student at Ariel University</h3>
+<h3 align="center">Computer Science 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=dolev146.dolev146) 
 [![Github](https://img.shields.io/github/followers/dolev146?label=Followers&style=social)](https://github.com/dolev146) 
