@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Dolev</h1>
 <h3 align="center">Computer Science 
-currently working for alpha omega engineering - neuro science 
+  
+[portfolio](https://github-portfolio-red.vercel.app/)
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=dolev146.dolev146) 
 [![Github](https://img.shields.io/github/followers/dolev146?label=Followers&style=social)](https://github.com/dolev146) 
